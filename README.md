@@ -1,2 +1,3 @@
 # First-Repo
-This si the first Repo
+This is the first Repo
+<br> Author - Gauri Vadak
